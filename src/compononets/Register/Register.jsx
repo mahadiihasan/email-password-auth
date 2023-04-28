@@ -21,6 +21,8 @@ const Register = () => {
     const handlePasswordBlur = (event) => {
 
         // console.log(event.target.value);
+        // console.log(event.target.value);
+        
 
     }
 
